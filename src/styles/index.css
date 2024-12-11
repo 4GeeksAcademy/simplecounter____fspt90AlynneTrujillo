@@ -1,3 +1,16 @@
+.mainCounter{
+    text-align: center;
+    background-color: black;
+}
+.mainCounter div{
+    display: inline-block;
+    line-height: 80px;
+    background-color: black;
+    color: white;
+    font-size: 80px;
+    padding: 20px;
+    margin: 10px;
+}
 /* 
 
     You can write your own styles here...
