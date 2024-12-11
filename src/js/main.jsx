@@ -9,7 +9,7 @@ import 'bootstrap';
 import '../styles/index.css';
 
 // Font Awesome Icons
-import './icons.js'; // Import the icons setup
+import './icons.js'; 
 
 // Components
 import Counter from './components/Counter.jsx';
